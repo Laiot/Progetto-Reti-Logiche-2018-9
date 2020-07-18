@@ -1,4 +1,4 @@
-# Progetto-Reti-Logiche-2018-9
+# Progetto di Reti Logiche 
 
 Progetto realizzato dagli studenti del Politecnico di Milano Sarta Carmelo e Ruffati Lorenzo per il corso di Reti Logiche del professor Palermo Gianluca.
 
